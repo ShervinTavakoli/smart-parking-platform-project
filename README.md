@@ -16,3 +16,10 @@ Week 1 Completed
 
 ## Team
 WE ARE $oftware Corp.
+
+## Week 2
+
+- Created WBS
+- Created Timeline
+- Defined Milestones
+- Developed Gantt Chart
