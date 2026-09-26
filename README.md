@@ -23,3 +23,20 @@ WE ARE $oftware Corp.
 - Created Timeline
 - Defined Milestones
 - Developed Gantt Chart
+## Week 3 Progress
+
+- Created Product Backlog in Trello/Jira
+- Added 5 Login backlog items
+- Added 15 User Interface backlog items
+- Added 15 Backend Process backlog items
+- Added 10 Reporting backlog items
+- Created Sprint 1 Backlog
+- Prioritized core features including registration, login, parking search, reservations, and notifications
+- Added Agile Planning section to the Project Management Plan
+- Uploaded backlog documentation and board screenshots to the repository
+## Week 4 Progress
+
+- Identified project risks
+- Developed Risk Register
+- Created Communication Plan
+- Defined reporting and meeting schedules
