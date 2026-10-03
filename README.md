@@ -40,3 +40,11 @@ WE ARE $oftware Corp.
 - Developed Risk Register
 - Created Communication Plan
 - Defined reporting and meeting schedules
+### Week 5
+
+- Defined project roles and resources
+- Assigned resource allocations
+- Developed bottom-up cost estimate
+- Created monthly cashflow forecast
+- Created RACI matrix
+- Documented project responsibilities
