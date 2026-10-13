@@ -48,3 +48,12 @@ WE ARE $oftware Corp.
 - Created monthly cashflow forecast
 - Created RACI matrix
 - Documented project responsibilities
+### Week 6
+Updated SRS and user stories
+Expanded WBS
+Updated project timeline and Gantt chart
+Refined backlog and Sprint planning
+Expanded risk register
+Updated communication plan
+Updated roles and cost plan
+Revised RACI matrix
