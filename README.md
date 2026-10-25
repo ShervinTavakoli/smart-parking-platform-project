@@ -49,6 +49,7 @@ WE ARE $oftware Corp.
 - Created RACI matrix
 - Documented project responsibilities
 ### Week 6
+
 Updated SRS and user stories
 Expanded WBS
 Updated project timeline and Gantt chart
@@ -57,3 +58,10 @@ Expanded risk register
 Updated communication plan
 Updated roles and cost plan
 Revised RACI matrix
+### Week 7
+
+Completed stakeholder analysis
+Created Power-Interest Grid
+Developed Team Charter
+Developed Project Charter
+Added governance documentation to project repository
