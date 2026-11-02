@@ -65,3 +65,9 @@ Created Power-Interest Grid
 Developed Team Charter
 Developed Project Charter
 Added governance documentation to project repository
+### Week 8
+Completed Project Closure Report
+Reviewed all project deliverables
+Documented lessons learned
+Created future project recommendations
+Finalized project documentation
